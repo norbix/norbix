@@ -12,8 +12,7 @@ I am a backend developer who loves golang!
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman, Tell Everyone
 
-<a href="https://www.github.com/norbix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/norbix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/norbixio" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/norbixio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/norbix" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/norbix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/norbixio" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/norbixio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 
