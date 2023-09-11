@@ -1,5 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Norbix
-==============================================================================================================================Backend Developer-----------------I am a backend developer who loves golang!* 🌍  I'm based in Warsaw Poland* ✉️  You can contact me at [norbert.jakubczak@gmail.com](mailto:norbert.jakubczak@gmail.com)* 🧠  I'm learning Gin Framework* 🤝  I'm open to collaborating on Projects* ⚡  I Am Batman, Tell Everyone
+==============================================================================================================================
+
+Backend Developer
+-----------------
+
+I am a backend developer who loves golang!
+
+* 🌍  I'm based in Warsaw Poland
+* ✉️  You can contact me at [norbert.jakubczak@gmail.com](mailto:norbert.jakubczak@gmail.com)
+* 🧠  I'm learning Gin Framework
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I Am Batman, Tell Everyone
 
 <a href="https://www.github.com/norbix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/norbix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/norbixio" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/norbixio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
