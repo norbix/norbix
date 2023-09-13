@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-I am a backend developer who loves golang!
+I am a backend developer who loves Go programming language!
 
 * 🌍  I'm based in Warsaw Poland
 * ✉️  You can contact me at [norbert.jakubczak@gmail.com](mailto:norbert.jakubczak@gmail.com)
