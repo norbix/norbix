@@ -7,7 +7,7 @@ Backend Developer
 I am a backend developer who loves Go programming language!
 
 * 🌍  I'm based in Warsaw Poland
-* ✉️  You can contact me at [replace](mailto:replace)
+* ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
 * 🧠  I'm learning Gin Framework
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman, Tell Everyone
