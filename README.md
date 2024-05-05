@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Platform Engineer
 -----------------
 
-I am a backend developer who loves Go programming language!
+I am a backend developer who loves Go programming language and Kubernetes!
 
 * 🌍  I'm based in Warsaw Poland
 * ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
