@@ -56,3 +56,10 @@ I am a backend developer who loves Go programming language and Kubernetes!
     </a>
 </div>
 
+<div width="100%" align="center">
+    <a href="https://github.com/norbix/build-automation-examples-for-go">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=build-automation-examples-for-go&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="build-automation-examples-for-go" />
+    </a>
+</div>
+
+
