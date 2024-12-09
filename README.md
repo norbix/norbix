@@ -38,9 +38,17 @@ I am a backend developer who loves Go programming language and Kubernetes!
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/norbix/PALESTRA-kube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=PALESTRA-kube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/norbix/mechanisms-in-golang" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=mechanisms-in-golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a href="https://github.com/norbix/idea_tricks_2_boost_productivity" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=idea_tricks_2_boost_productivity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+<a href="https://github.com/norbix/PALESTRA-kube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=PALESTRA-kube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/norbix/mechanisms-in-golang" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=mechanisms-in-golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
+<div width="100%" align="center">
+<a href="https://github.com/norbix/idea_tricks_2_boost_productivity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=idea_tricks_2_boost_productivity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/norbix/demo1_fullstack_golang" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=demo1_fullstack_golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/norbix/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=leetcode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /><a href="https://github.com/norbix/concept-of-a-contract" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=concept-of-a-contract&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/norbix/infrastructure-as-code-with-terraform" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=infrastructure-as-code-with-terraform&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/norbix/go-concurrency-guide" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=go-concurrency-guide&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+<a href="https://github.com/norbix/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=leetcode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/norbix/concept-of-a-contract" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=concept-of-a-contract&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
