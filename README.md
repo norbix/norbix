@@ -39,14 +39,20 @@ I am a backend developer who loves Go programming language and Kubernetes!
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
-<a href="https://github.com/norbix/PALESTRA-kube" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=PALESTRA-kube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/norbix/PALESTRA-kube">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=PALESTRA-kube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="PALESTRA-kube" />
+    </a>
+    <a href="https://github.com/norbix/demo1_fullstack_golang">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=demo1_fullstack_golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="demo1_fullstack_golang" />
+    </a>
 </div>
 
 <div width="100%" align="center">
-<a href="https://github.com/norbix/idea_tricks_2_boost_productivity" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=idea_tricks_2_boost_productivity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/norbix/demo1_fullstack_golang" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=demo1_fullstack_golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+    <a href="https://github.com/norbix/idea_tricks_2_boost_productivity">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=idea_tricks_2_boost_productivity&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="idea_tricks_2_boost_productivity" />
+    </a>
+    <a href="https://github.com/norbix/leetcode">
+        <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=leetcode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="leetcode" />
+    </a>
 </div>
 
-<div width="100%" align="center">
-<a href="https://github.com/norbix/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=norbix&repo=leetcode&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-</div>
