@@ -6,7 +6,7 @@ Software Engineer
 
 I am a backend developer who loves Go programming language and Kubernetes!
 
-* 🌍  I'm based in Poland/Warsaw
+* 🌍  I'm based in the Europe
 * ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
 * 🧠  I'm learning Concurrency Patterns
 * 🤝  I'm open to collaborating on Projects
