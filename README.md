@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a backend developer who loves Go programming language and Kubernetes!
+I am a backend developer who specializes in:
+- Go programming language,
+  - K8s Cloud Platform
+- Python programming language,
+  - Data Engineering
 
 * 🌍  I'm based in the Europe
 * ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
