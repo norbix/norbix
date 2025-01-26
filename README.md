@@ -5,14 +5,14 @@ Software Engineer
 -----------------
 
 I am a backend developer who specializes in:
-- Go programming language,
+- Go programming language
   - K8s Cloud Platform
-- Python programming language,
+- Python programming language
   - Data Engineering
 
 * 🌍  I'm based in the Europe
 * ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
-* 🧠  I'm learning Concurrency Patterns
+* 🧠  I'm learning Graph Theory
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I Am Batman, Tell Everyone
 
