@@ -5,9 +5,10 @@ Software Engineer
 -----------------
 
 I am a backend developer who specializes in Go and Python:
-- K8s Cloud Platforms
+- Internal Developer Platforms
 - SaaS Microservices
-- Data Engineering Platforms
+- K8s Cloud Platforms
+- Data Platforms
 
 * 🌍  I'm based in the Europe
 * ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
