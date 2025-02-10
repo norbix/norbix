@@ -6,11 +6,11 @@ Software Engineer
 
 I am a polyglot developer (Golang & Python), with expertise in analyzing architecting, developing, deploying and supporting business applications.
 
-Specializing in:
+Areas of Expertise:
 - Internal Developer Platforms (IDP)
-- Software-As-A-Service Microservices (SaaS)
-- K8s Cloud Platforms (Cloud Native)
-- NextGen Computing (Serverless)
+- Software-as-a-Service (SaaS) Microservices
+- K8s Cloud Platforms (Cloud-Native)
+- Next-Gen Computing (Serverless)
 - Data Platforms
 
 * 🌍  I'm based in the Europe
