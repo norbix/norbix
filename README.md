@@ -4,10 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a backend developer who specializes in Go and Python:
-- Internal Developer Platforms
-- SaaS Microservices
-- K8s Cloud Platforms
+I am a polyglot developer (Golang & Python) that can analyse, architect, develop, deploy and support business applications.
+
+Specializing in:
+- Internal Developer Platforms (IDP)
+- Software-As-A-Service Microservices (SaaS)
+- K8s Cloud Platforms (Cloud Native)
+- NextGen Computing (Serverless)
 - Data Platforms
 
 * 🌍  I'm based in the Europe
