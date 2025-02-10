@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a polyglot developer (Golang & Python) that can analyse, architect, develop, deploy and support business applications.
+I am a polyglot developer (Golang & Python), with expertise in analyzing architecting, developing, deploying and supporting business applications.
 
 Specializing in:
 - Internal Developer Platforms (IDP)
