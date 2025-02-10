@@ -10,7 +10,7 @@ Areas of Expertise:
 - Internal Developer Platforms (IDP)
 - Software-as-a-Service (SaaS) Microservices
 - K8s Cloud Platforms (Cloud-Native)
-- Next-Gen Computing (Serverless)
+- Next-Generation Computing (Serverless)
 - Data Platforms
 
 * 🌍  I'm based in the Europe
