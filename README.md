@@ -10,11 +10,12 @@ I am a polyglot developer (Golang & Python), with expertise in analyzing, archit
 - Next-Generation Computing (Serverless)
 - Data Platforms
 
-* 🌍  I'm based in the Europe
-* ✉️  You can contact me at [norbix.software@gmail.com](mailto:norbix.software@gmail.com)
-* 🧠  I'm learning Graph Theory
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Batman, Tell Everyone
+### **More About Me:**
+🌍  I'm based in Europe  
+✉️  You can contact me at **norbix.software@gmail.com**  
+🧠  I'm currently learning **Graph Theory**  
+🤝  I'm open to collaborating on **exciting projects**  
+⚡  I am **Batman**... Tell everyone! 🦇  
 
 <a href="https://www.github.com/norbix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/norbix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/norbixio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/norbixio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
