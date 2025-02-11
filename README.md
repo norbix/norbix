@@ -1,17 +1,17 @@
-👉 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Norbix.
+👉 Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Norbix.
 ==============================================================================================================================
 
-I am a polyglot Software Engineer (Golang & Python), with expertise in analyzing, architecting, developing, deploying and supporting business applications.
+I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyzing, architecting, developing, deploying, and supporting business applications.
 
 ### **Areas of Expertise:**
-- Internal Developer Platforms (IDP)
-- Software-as-a-Service (SaaS) Microservices
-- K8s Cloud Platforms (Cloud-Native)
-- Next-Generation Computing (Serverless)
-- Data Platforms
+- **Internal Developer Platforms (IDP)**
+- **Software-as-a-Service (SaaS) Microservices**
+- **Kubernetes (K8s) Cloud Platforms (Cloud-Native)**
+- **Next-Generation Computing (Serverless)**
+- **Data Platforms**
 
 ### **More About Me:**
-🌍  I'm based in Europe  
+🌍  I'm based in **Europe**  
 ✉️  You can contact me at **norbix.software@gmail.com**  
 🧠  I'm currently learning **Graph Theory**  
 🤝  I'm open to collaborating on **exciting projects**  
