@@ -1,7 +1,7 @@
-👉 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Norbix an I'm a Software Engineer.
+👉 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), my name is Norbix.
 ==============================================================================================================================
 
-I am a polyglot developer (Golang & Python), with expertise in analyzing, architecting, developing, deploying and supporting business applications.
+I am a polyglot Software Engineer (Golang & Python), with expertise in analyzing, architecting, developing, deploying and supporting business applications.
 
 ### **Areas of Expertise:**
 - Internal Developer Platforms (IDP)
