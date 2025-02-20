@@ -17,6 +17,14 @@ I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyz
   &#110;&#111;&#114;&#98;&#105;&#120;&#46;&#115;&#111;&#102;&#116;&#119;&#97;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
 </a>
 
+<form action="/contact" method="POST">
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
+  <button type="submit">Send Message</button>
+</form>
+
+
 🧠  I'm currently learning **Graph Theory**  
 🤝  I'm open to collaborating on **exciting projects**  
 ⚡  I am **Batman**... Tell everyone! 🦇  
