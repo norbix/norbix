@@ -11,12 +11,11 @@ I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyz
 
 ### **More About Me:**
 🌍  I'm based in **Europe**  
-✉️  You can contact me at  <a href="mailto:&#110;&#111;&#114;&#98;&#101;&#114;&#116;&#46;&#106;&#97;&#107;&#117;&#98;&#99;&#122;&#97;&#107;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-  &#110;&#111;&#114;&#98;&#101;&#114;&#116;&#46;&#106;&#97;&#107;&#117;&#98;&#99;&#122;&#97;&#107;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
-  
 🧠  I'm currently learning **Graph Theory**  
 🤝  I'm open to collaborating on **exciting projects**  
 ⚡  I am **Batman**... Tell everyone! 🦇  
+✉️  You can contact me at  <a href="mailto:&#110;&#111;&#114;&#98;&#101;&#114;&#116;&#46;&#106;&#97;&#107;&#117;&#98;&#99;&#122;&#97;&#107;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+  &#110;&#111;&#114;&#98;&#101;&#114;&#116;&#46;&#106;&#97;&#107;&#117;&#98;&#99;&#122;&#97;&#107;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a>
 
 <a href="https://www.github.com/norbix" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/norbix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <a href="https://www.x.com/norbixio" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/norbixio?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
