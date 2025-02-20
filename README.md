@@ -12,6 +12,11 @@ I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyz
 ### **More About Me:**
 🌍  I'm based in **Europe**  
 ✉️  You can contact me at **norbix.software@gmail.com**  
+✉️  You can contact me at  
+<a href="mailto:&#110;&#111;&#114;&#98;&#105;&#120;&#46;&#115;&#111;&#102;&#116;&#119;&#97;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+  &#110;&#111;&#114;&#98;&#105;&#120;&#46;&#115;&#111;&#102;&#116;&#119;&#97;&#114;&#101;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+</a>
+
 🧠  I'm currently learning **Graph Theory**  
 🤝  I'm open to collaborating on **exciting projects**  
 ⚡  I am **Batman**... Tell everyone! 🦇  
