@@ -6,7 +6,6 @@ I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyz
 ### **Areas of Expertise:**
 - **Internal Developer Platforms (IDP)**
 - **Software-as-a-Service (SaaS) Microservices**
-- **Data Platforms**
 
 ### **More About Me:**
 🌍  I'm based in **Europe**  
