@@ -1,11 +1,12 @@
 👉 Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Norbix.
 ==============================================================================================================================
 
-I am a polyglot **Software Engineer** (Golang & Python) with expertise in analyzing, architecting, developing, deploying, and supporting business applications.
+I am a polyglot Software Engineer (Golang & Python) working across the full stack and cloud infrastructure, covering analysis, architecture, development, deployment, and support of business applications.
 
 ### **Areas of Expertise:**
 - **Internal Developer Platforms (IDP)**
 - **Software-as-a-Service (SaaS) Microservices**
+- **Kubernetes Cloud Platforms**
 
 ### **More About Me:**
 🌍  I'm based in **Europe**  
