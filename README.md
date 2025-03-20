@@ -6,7 +6,7 @@ I am a polyglot Software Engineer (Golang & Python) working across the full stac
 ### **Areas of Expertise:**
 - **Internal Developer Platforms (IDP)**
 - **Software-as-a-Service (SaaS) Microservices**
-- **Kubernetes Cloud Platforms**
+- **Kubernetes (K8s) Cloud Platforms**
 
 ### **More About Me:**
 🌍  I'm based in **Europe**  
